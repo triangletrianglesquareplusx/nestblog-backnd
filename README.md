@@ -71,3 +71,7 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](LICENSE).
+
+### Personal notes of PG on dev process
+
+nest can just generate in same folder, no need to rename. Just run 'nest new .' to create app in same folder.
